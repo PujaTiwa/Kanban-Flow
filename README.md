@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-Explore the Kanban Flow app live on 
+Explore the Kanban Flow app live on [text](https://kanban-flow-one.vercel.app/)
 
 ## Technology Stack
 
